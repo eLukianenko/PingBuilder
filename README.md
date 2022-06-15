@@ -1,5 +1,5 @@
 # pingBuilder
-Landing Page 
+Test Landing Page 
 
 ## Technologies
 HTML, CSS, JS
